@@ -1,0 +1,14 @@
+D:\visual\OVERRIDING METHOD\Skill\bin\Debug\net10.0\Skill.exe
+D:\visual\OVERRIDING METHOD\Skill\bin\Debug\net10.0\Skill.deps.json
+D:\visual\OVERRIDING METHOD\Skill\bin\Debug\net10.0\Skill.runtimeconfig.json
+D:\visual\OVERRIDING METHOD\Skill\bin\Debug\net10.0\Skill.dll
+D:\visual\OVERRIDING METHOD\Skill\bin\Debug\net10.0\Skill.pdb
+D:\visual\OVERRIDING METHOD\Skill\obj\Debug\net10.0\Skill.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual\OVERRIDING METHOD\Skill\obj\Debug\net10.0\Skill.AssemblyInfoInputs.cache
+D:\visual\OVERRIDING METHOD\Skill\obj\Debug\net10.0\Skill.AssemblyInfo.cs
+D:\visual\OVERRIDING METHOD\Skill\obj\Debug\net10.0\Skill.csproj.CoreCompileInputs.cache
+D:\visual\OVERRIDING METHOD\Skill\obj\Debug\net10.0\Skill.dll
+D:\visual\OVERRIDING METHOD\Skill\obj\Debug\net10.0\refint\Skill.dll
+D:\visual\OVERRIDING METHOD\Skill\obj\Debug\net10.0\Skill.pdb
+D:\visual\OVERRIDING METHOD\Skill\obj\Debug\net10.0\Skill.genruntimeconfig.cache
+D:\visual\OVERRIDING METHOD\Skill\obj\Debug\net10.0\ref\Skill.dll
